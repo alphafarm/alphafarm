@@ -9,6 +9,10 @@
   background-image: linear-gradient(to right, #150948, #050217);
 }
 
+.bg-dark-purple {
+  background-color: #0b0529;
+}
+
 .bg-yellow {
   background-color: #ffc400;
 }
@@ -27,11 +31,11 @@
   padding-bottom: 20%;
 }
 
-.purple {
+.text-color-purple {
   color: #b733d6;
 }
 
-.pink {
+.text-color-pink {
   color: #e207af;
 }
 
@@ -185,6 +189,34 @@
   border-radius: 14px 30px 0 14px;
 }
 
+.depoiment-card {
+  align-items: center;
+  border-radius: 25px;
+  margin: 2%;
+  padding: 1%;
+  width: 40%;
+}
+
+.depoiment-image > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 25px;
+}
+
+.depoiment-name {
+  font-size: 45px;
+}
+
+.depoiment-person-info,
+.depoiment-data,
+.depoiment-audio-title {
+  font-size: 20px;
+}
+
+.depoiment-person-info > a {
+  text-decoration: none;
+}
+
 .footer {
   border-radius: 250px 250px 0 0;
   position: relative;
@@ -193,6 +225,6 @@
 }
 
 .footer-logo {
-  width: 10%;
-  height: 10%;
+  width: 8%;
+  height: 8%;
 }
