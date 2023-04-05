@@ -210,6 +210,7 @@
   margin: 2%;
   padding: 1%;
   width: 40%;
+  height: 100%;
 }
 
 .depoiment-image > img {
@@ -223,9 +224,12 @@
 }
 
 .depoiment-person-info,
-.depoiment-data,
 .depoiment-audio-title {
   font-size: 20px;
+}
+
+.depoiment-data {
+  font-size: 15px;
 }
 
 .depoiment-person-info > a {
