@@ -73,6 +73,11 @@
   color: #e207af;
 }
 
+.logo {
+  width: 15%;
+  height: 15%;
+}
+
 .title-box {
   margin: 4% 0;
   display: flex;
