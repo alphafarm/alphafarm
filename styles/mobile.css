@@ -125,6 +125,10 @@
     font-size: 20px;
   }
 
+  .depoiments {
+    display: flex !important;
+  }
+
   .depoiment-card {
     display: flex;
     padding: 5%;
@@ -192,37 +196,130 @@
   }
 }
 
-/* Landscape 
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 360px) {
+  .logo {
+    width: 40%;
+    height: 40%;
+  }
 
-@media only screen
+  .btn-leaky {
+    padding: 2.5%;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 15px;
+  }
 
-and (min-device-width: 375px)
+  .padding-bottom-20 {
+    padding-bottom: 60%;
+  }
 
-and (max-device-width: 667px)
+  .section-offer {
+    border-radius: 150px 150px 0 0;
+    margin-top: -50%;
+  }
 
-and (-webkit-min-device-pixel-ratio: 2)
+  .title-box {
+    margin-top: 30%;
+    margin-bottom: 15%;
+  }
 
-and (orientation: landscape) {
+  .title {
+    font-size: 60px;
+  }
 
-} */
+  .subtitle {
+    font-size: 20px;
+  }
 
-/* ----------- Google Pixel ----------- */
+  .header-cards-title {
+    font-size: 22px;
+    padding-bottom: 5%;
+  }
 
-/* Portrait */
+  .card {
+    padding: 5%;
+  }
 
-@media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+  .card > p {
+    font-size: 20px;
+  }
+
+  .section-offer {
+    padding-bottom: 60%;
+  }
+
+  .section-offer > p {
+    font-size: 20px;
+    padding-bottom: 10%;
+  }
+
+  .offer-title {
+    font-size: 40px;
+  }
+
+  .list-offer {
+    font-size: 18px;
+  }
+
+  .card-offer,
+  .card-offer-yellow {
+    height: 100%;
+  }
+
+  .card-offer-yellow {
+    padding: 5%;
+  }
+
+  .offer-tag {
+    top: -4%;
+    left: 38%;
+  }
+
+  .width-60 {
+    width: 80%;
+  }
+
+  .faq-area-title {
+    font-size: 20px;
+  }
+
+  .faq-accordion-box {
+    padding: 2%;
+  }
+
+  .faq-accordion-box-title {
+    font-size: 20px;
+  }
+
+  .faq-accordion-box > p {
+    font-size: 15px;
+  }
+
+  .footer {
+    border-radius: 150px 150px 0 0;
+    margin-top: -50%;
+  }
+
+  .footer-logo {
+    padding-top: 10%;
+    width: 25%;
+    height: 25%;
+  }
 }
-
-/* Landscape 
-
-@media screen
-
-and (device-width: 360px)
-
-and (device-height: 640px)
-
-and (-webkit-device-pixel-ratio: 3)
-
-and (orientation: landscape) {
-
+/* Small devices (portrait tablets and large phones, 600px and up)
+@media only screen and (min-width: 600px) {
+  ...;
+}
+/* Medium devices (landscape tablets, 768px and up) 
+@media only screen and (min-width: 768px) {
+  ...;
+}
+/* Large devices (laptops/desktops, 992px and up) 
+@media only screen and (min-width: 992px) {
+  ...;
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) 
+@media only screen and (min-width: 1200px) {
+  ...;
 } */
