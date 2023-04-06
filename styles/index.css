@@ -5,6 +5,13 @@
   background-size: cover;
 }
 
+.bg-zuck {
+  background-image: url("./../images/background/zuckerberg.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .bg-logo {
   background-image: url("./../images/logos/Mascote_Negativo.svg");
   background-position: 0%;
