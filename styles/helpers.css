@@ -133,3 +133,8 @@
   transition: 0.3s ease;
   padding: 5% 10%;
 }
+
+.btn-link {
+  text-decoration: underline;
+  color: #b733d6;
+}
