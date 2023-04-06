@@ -24,6 +24,10 @@
     width: 50% !important;
   }
 
+  .margin-10 {
+    margin: 10% 0;
+  }
+
   .btn-leaky {
     font-size: 18px;
     font-weight: bold;
@@ -63,7 +67,7 @@
   }
 
   .section-offer {
-    border-radius: 150px 150px 0 0;
+    border-radius: 120px 120px 0 0;
     margin-top: -50%;
     padding-bottom: 60%;
   }
@@ -173,7 +177,7 @@
   }
 
   .footer {
-    border-radius: 150px 150px 0 0;
+    border-radius: 120px 120px 0 0;
     margin-top: -50%;
   }
 
