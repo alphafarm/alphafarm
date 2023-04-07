@@ -169,11 +169,11 @@
   }
 
   .width-60 {
-    width: 80%;
+    width: 100%;
   }
 
   .faq-accordion-box-title {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   .faq-accordion-box > p {
