@@ -207,6 +207,18 @@
   border-radius: 14px 30px 0 14px;
 }
 
+.payment-info > h1 {
+  padding-bottom: 2%;
+}
+
+.payment-method-logo {
+  background-color: #ffffff;
+  border-radius: 25px;
+  padding: 1%;
+  width: 30%;
+  margin-bottom: 5%;
+}
+
 .depoiment-card {
   align-items: center;
   border-radius: 25px;

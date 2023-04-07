@@ -121,6 +121,18 @@
     font-size: 16px;
   }
 
+  .payment-info > h1 {
+    padding-bottom: 5%;
+  }
+
+  .payment-method-logo {
+    background-color: #ffffff;
+    border-radius: 25px;
+    margin-bottom: 0;
+    padding: 1%;
+    width: 100%;
+  }
+
   .depoiments-area {
     font-size: 20px;
   }
