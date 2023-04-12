@@ -136,13 +136,13 @@
 .card-offer,
 .card-offer-yellow {
   align-self: center;
-  height: 450px;
+  height: 100%;
   background-image: linear-gradient(to bottom, #270771, #3e0450);
   border-radius: 25px;
 }
 
 .card-offer-yellow {
-  height: 480px !important;
+  height: 100% !important;
   border: 5px solid #ffc400;
 }
 
