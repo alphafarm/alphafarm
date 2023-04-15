@@ -78,6 +78,7 @@
 
   .card-offer,
   .card-offer-yellow {
+    width: 90% !important;
     height: 100% !important;
   }
 
@@ -266,6 +267,12 @@
     padding-bottom: 10%;
   }
 
+  .card-offer,
+  .card-offer-yellow {
+    width: 90% !important;
+    height: 100% !important;
+  }
+
   .offer-title {
     font-size: 40px;
   }
@@ -358,18 +365,25 @@
     font-size: 20px;
   }
 
-  .card-offer {
+  /*.card-offer {
     padding: 2% !important;
     height: 450px;
   }
 
   .card-offer-yellow {
     height: 480px;
+  } */
+
+  .card-offer,
+  .card-offer-yellow {
+    width: 25% !important;
+    height: 100% !important;
+    padding: 2% !important;
   }
 
   .offer-tag {
-    top: -5%;
-    left: 40%;
+    top: -30px !important;
+    left: 38%;
   }
 
   .depoiments {
