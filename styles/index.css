@@ -1,3 +1,10 @@
+.bg-lines {
+  background-image: url("./../images/background/lines.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .bg-wolf {
   background-image: url("./../images/background/wolf.jpg");
   background-position: center;
@@ -123,6 +130,33 @@
 
 .shadow {
   box-shadow: 0 0 50px rgba(148, 5, 196, 0.16);
+}
+
+.whatsapp {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.whatsapp-button {
+  background-color: #25d366;
+  border-radius: 50%;
+  cursor: pointer;
+  position: fixed;
+  padding: 1.5%;
+  opacity: 0.1;
+  transition: 0.3s ease;
+  top: 80%;
+  left: 90%;
+  z-index: 2;
+}
+
+.whatsapp-button:hover {
+  opacity: 1;
+}
+
+.whatsapp-logo {
+  color: #ffffff;
+  font-size: 50px;
 }
 
 .section-offer {

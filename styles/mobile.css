@@ -66,6 +66,17 @@
     font-size: 20px;
   }
 
+  .whatsapp-button {
+    padding: 1.5%;
+    top: 92%;
+    left: 88%;
+    padding: 2%;
+  }
+  .whatsapp-logo {
+    color: #ffffff;
+    font-size: 25px;
+  }
+
   .section-offer {
     border-radius: 120px 120px 0 0;
     margin-top: -50%;
@@ -256,6 +267,17 @@
 
   .card > p {
     font-size: 20px;
+  }
+
+  .whatsapp-button {
+    padding: 1.5%;
+    top: 92%;
+    left: 85%;
+    padding: 2%;
+  }
+  .whatsapp-logo {
+    color: #ffffff;
+    font-size: 25px;
   }
 
   .section-offer {
