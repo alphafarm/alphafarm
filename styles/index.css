@@ -320,3 +320,38 @@
   width: 8%;
   height: 8%;
 }
+
+/* === NEW CARDS === */
+.offer-holder{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.no-link{
+  text-decoration: none;
+}
+
+.offer-new-button{
+  border-radius: 25px;
+  font-size: large;
+  font-weight: bold;
+  margin: 2.5%;
+  padding: 5%;
+  text-transform: uppercase;
+  width: 80%;
+}
+
+.offer-button-purple{
+  background-color: #b733d6;
+}
+
+.offer-button-white{
+  background-color: #ffffff;
+}
+
+.offer-button-leaky{
+  border: 1px solid #ffffff;
+}
