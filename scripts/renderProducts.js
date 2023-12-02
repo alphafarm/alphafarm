@@ -59,13 +59,13 @@ function renderProducts() {
                             </div>
                         </div>
                         <div class="offer-holder">
-                            <a href="${item.paymentLink[0]}" class="offer-new-button no-link offer-button-purple">
+                            <a href="${item.paymentLink[0]}" class="offer-new-button no-link offer-button-purple product-link">
                                 <div class="text-white">
                                 <i class="fa-brands fa-pix"></i>
                                     Pagar com PIX
                                 </div>
                             </a>
-                            <a href="${item.paymentLink[1]}" class="offer-new-button no-link offer-button-leaky">
+                            <a href="${item.paymentLink[1]}" class="offer-new-button no-link offer-button-leaky product-link">
                                 <div class="text-white">
                                 <i class="fa-solid fa-credit-card"></i>
                                     Pagar com Cartão
@@ -108,13 +108,13 @@ function renderProducts() {
                             </div>
                         </div>
                         <div class="offer-holder">
-                            <a href="${item.paymentLink[0]}" class="offer-new-button no-link offer-button-purple">
+                            <a href="${item.paymentLink[0]}" class="offer-new-button no-link offer-button-purple product-link">
                                 <div class="text-white">
                                 <i class="fa-brands fa-pix"></i>
                                     Pagar com PIX
                                 </div>
                             </a>
-                            <a href="${item.paymentLink[1]}" class="offer-new-button no-link offer-button-leaky">
+                            <a href="${item.paymentLink[1]}" class="offer-new-button no-link offer-button-leaky product-link">
                                 <div class="text-white">
                                 <i class="fa-solid fa-credit-card"></i>
                                     Pagar com Cartão
