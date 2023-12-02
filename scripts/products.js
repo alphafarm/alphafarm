@@ -79,7 +79,7 @@ var products = [
                     "Produto 100% Nacional"
                 ],
                 originalPrice: 800,
-                price: 597,
+                price: 697,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL6Q?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20a%20BM%20ILIMITADA!"
@@ -128,8 +128,8 @@ var products = [
                     "BM Ilimitada",
                     "Sobe conversão em 24 Hrs"
                 ],
-                originalPrice: 747,
-                price: 672,
+                originalPrice: 874,
+                price: 804,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLCL?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20COMBO%20ALPHA!"    
@@ -168,5 +168,3 @@ var products = [
             }]
     }
 ];
-
-console.log(products);
