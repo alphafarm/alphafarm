@@ -255,7 +255,7 @@
 
 .offer-tag-disabled {
   width: 100%;
-  border-radius: 14px;
+  border-radius: 25px 25px 5px 5px;
   margin-bottom: 2%;
 }
 
