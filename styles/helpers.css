@@ -121,6 +121,10 @@
   color: #000000;
 }
 
+.opacity-50{
+  opacity: 0.5;
+}
+
 .btn {
   border: none;
   border-radius: 20px;

@@ -22,7 +22,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGL8Q?hidecard=1",
                     "https://checkout.alphafarm.pro/2wq7GrWzWDgBANP"
                 ],
-                isMostSell: false
+                isMostSell: false,
+                isActive: true
             },
             {
                 name: "Perfil Confirmado",
@@ -43,7 +44,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGL8T?hidecard=1",
                     "https://checkout.alphafarm.pro/RmA83EKOKzGPVpY"
                 ],
-                isMostSell: true
+                isMostSell: true,
+                isActive: true
             },
             {
                 name: "Perfil Simples",
@@ -62,7 +64,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGL8U?hidecard=1",
                     "https://checkout.alphafarm.pro/nQ7kZ7aVa9g0eJL"
                 ],
-                isMostSell: false
+                isMostSell: false,
+                isActive: true
             }
         ]
     },
@@ -84,7 +87,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGL6Q?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20a%20BM%20ILIMITADA!"
                 ],
-                isMostSell: false
+                isMostSell: false,
+                isActive: false
             },
             {
                 name: "BM'S 1.3K DIÁRIOS!",
@@ -99,7 +103,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGL7B?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20a%20BM%201.3k!"
                 ],
-                isMostSell: true
+                isMostSell: true,
+                isActive: true
             },
             {
                 name: "BM 257 DIÁRIOS!",
@@ -113,7 +118,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGL7C?hidecard=1",
                     "https://checkout.alphafarm.pro/eApQgzl8Y5ZEb76"    
                 ],
-                isMostSell: false
+                isMostSell: false,
+                isActive: true
             }
         ]
     },
@@ -134,7 +140,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGLCL?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20COMBO%20ALPHA!"    
                 ],
-                isMostSell: false
+                isMostSell: false,
+                isActive: false
             },
             {
                 name: "Combo Matilha",
@@ -149,7 +156,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGLD6?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20COMBO%20MATILHA!"    
                 ],
-                isMostSell: true
+                isMostSell: true,
+                isActive: true
             },
             {
                 name: "Combo Lobinho",
@@ -164,7 +172,8 @@ var products = [
                     "https://go.perfectpay.com.br/PPU38CNGLDG?hidecard=1",
                     "https://checkout.alphafarm.pro/nQ7kZ7aVjzg0eJL"    
                 ],
-                isMostSell: false
+                isMostSell: false,
+                isActive: true
             }]
     }
 ];
