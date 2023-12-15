@@ -20,7 +20,7 @@ var products = [
                 price: 150,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8Q?hidecard=1",
-                    "#"
+                    "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Restabelecido!"
                 ],
                 isMostSell: false,
                 isActive: true
@@ -42,7 +42,7 @@ var products = [
                 price: 120,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8T?hidecard=1",
-                    "#"
+                    "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Confirmado!"
                 ],
                 isMostSell: true,
                 isActive: true
@@ -62,7 +62,7 @@ var products = [
                 price: 80,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8U?hidecard=1",
-                    "#"
+                    "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Simples!"
                 ],
                 isMostSell: false,
                 isActive: true
@@ -116,7 +116,7 @@ var products = [
                 price: 80,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL7C?hidecard=1",
-                    "#"    
+                    "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20a%20BM%20257 diários!"    
                 ],
                 isMostSell: false,
                 isActive: true
@@ -170,7 +170,7 @@ var products = [
                 price: 147,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLDG?hidecard=1",
-                    "#"    
+                    "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Combo%20Lobinho!"    
                 ],
                 isMostSell: false,
                 isActive: true
