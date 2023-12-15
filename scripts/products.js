@@ -20,7 +20,7 @@ var products = [
                 price: 150,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8Q?hidecard=1",
-                    "https://checkout.alphafarm.pro/2wq7GrWzWDgBANP"
+                    "#"
                 ],
                 isMostSell: false,
                 isActive: true
@@ -42,7 +42,7 @@ var products = [
                 price: 120,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8T?hidecard=1",
-                    "https://checkout.alphafarm.pro/RmA83EKOKzGPVpY"
+                    "#"
                 ],
                 isMostSell: true,
                 isActive: true
@@ -62,7 +62,7 @@ var products = [
                 price: 80,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8U?hidecard=1",
-                    "https://checkout.alphafarm.pro/nQ7kZ7aVa9g0eJL"
+                    "#"
                 ],
                 isMostSell: false,
                 isActive: true
@@ -116,7 +116,7 @@ var products = [
                 price: 80,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL7C?hidecard=1",
-                    "https://checkout.alphafarm.pro/eApQgzl8Y5ZEb76"    
+                    "#"    
                 ],
                 isMostSell: false,
                 isActive: true
@@ -170,7 +170,7 @@ var products = [
                 price: 147,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLDG?hidecard=1",
-                    "https://checkout.alphafarm.pro/nQ7kZ7aVjzg0eJL"    
+                    "#"    
                 ],
                 isMostSell: false,
                 isActive: true
