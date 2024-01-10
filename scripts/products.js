@@ -141,7 +141,7 @@ var products = [
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20COMBO%20ALPHA!"    
                 ],
                 isMostSell: false,
-                isActive: false
+                isActive: true
             },
             {
                 name: "Combo Matilha",
