@@ -17,7 +17,7 @@ var products = [
                     "Restabelecido"
                 ],
                 originalPrice: 197,
-                price: 150,
+                price: 147,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL8Q?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Restabelecido!"
@@ -82,7 +82,7 @@ var products = [
                     "Produto 100% Nacional"
                 ],
                 originalPrice: 800,
-                price: 697,
+                price: 657,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL6Q?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20a%20BM%20ILIMITADA!"
@@ -98,7 +98,7 @@ var products = [
                     "Produto 100% Nacional"
                 ],
                 originalPrice: 450,
-                price: 357,
+                price: 297,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGL7B?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20a%20BM%201.3k!"
@@ -135,7 +135,7 @@ var products = [
                     "Sobe conversão em 24 Hrs"
                 ],
                 originalPrice: 874,
-                price: 804,
+                price: 757,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLCL?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20COMBO%20ALPHA!"    
@@ -151,7 +151,7 @@ var products = [
                     "Sobe conversão em 24 Hrs"
                 ],
                 originalPrice: 477,
-                price: 453,
+                price: 357,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLD6?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20COMBO%20MATILHA!"    
@@ -167,7 +167,7 @@ var products = [
                     "Sobe conversão em 24 Hrs"
                 ],
                 originalPrice: 160,
-                price: 147,
+                price: 137,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLDG?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Combo%20Lobinho!"    
