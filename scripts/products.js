@@ -167,7 +167,7 @@ var products = [
                     "Sobe conversão em 24 Hrs"
                 ],
                 originalPrice: 160,
-                price: 137,
+                price: 147,
                 paymentLink: [
                     "https://go.perfectpay.com.br/PPU38CNGLDG?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Combo%20Lobinho!"    
