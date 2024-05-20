@@ -19,7 +19,7 @@ var products = [
                 originalPrice: 197,
                 price: 147,
                 paymentLink: [
-                    "https://go.perfectpay.com.br/PPU38COIADH?hidecard=1",
+                    "https://go.perfectpay.com.br/PPU38COIAIH?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Restabelecido!"
                 ],
                 isMostSell: false,
@@ -41,7 +41,7 @@ var products = [
                 originalPrice: 157,
                 price: 120,
                 paymentLink: [
-                    "https://go.perfectpay.com.br/PPU38COIADG?hidecard=1",
+                    "https://go.perfectpay.com.br/PPU38COIAKL?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Confirmado!"
                 ],
                 isMostSell: true,
@@ -61,7 +61,7 @@ var products = [
                 originalPrice: 120,
                 price: 80,
                 paymentLink: [
-                    "https://go.perfectpay.com.br/PPU38COIACI?hidecard=1",
+                    "https://go.perfectpay.com.br/PPU38COIAKO?hidecard=1",
                     "https://api.whatsapp.com/send?phone=5547991243979&text=Ol%C3%A1%20equipe%20Alpha%20Farm,%20quero%20o%20link%20de%20pagamento%20no%20cart%C3%A3o%20para%20o%20Perfil%20Simples!"
                 ],
                 isMostSell: false,
