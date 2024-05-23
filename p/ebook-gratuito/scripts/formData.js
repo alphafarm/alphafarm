@@ -133,8 +133,8 @@ var labels = {
   
   function downloadMaterial() {
     var link = document.createElement('a');
-    link.href = 'https://drive.google.com/uc?id=1FJpYbgu25nXb3Ymc7iVvTEgOjKgMj3KS';
-    link.download = 'Manual_Do_Anunciante_Alpha.pdf';
+    link.href = 'https://drive.google.com/uc?id=1gFhtyUSSeJF_cOsQzBBO9p10EQjzskDT';
+    link.download = "Contingência 101 - O Guia prático para iniciantes.pdf";
   
     document.body.appendChild(link);
   
