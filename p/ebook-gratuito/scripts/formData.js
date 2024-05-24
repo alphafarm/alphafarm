@@ -133,7 +133,7 @@ var labels = {
   
   function downloadMaterial() {
     var link = document.createElement('a');
-    link.href = 'https://drive.google.com/uc?id=1gFhtyUSSeJF_cOsQzBBO9p10EQjzskDT';
+    link.href = 'https://drive.google.com/file/d/1j9O7HJ0Ce9p8U4XBYFbzIxdDi4omfDgz';
     link.download = "Contingência 101 - O Guia prático para iniciantes.pdf";
   
     document.body.appendChild(link);
